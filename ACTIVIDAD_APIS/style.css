@@ -1,0 +1,21 @@
+div {
+    padding: 1rem;
+    margin: 1rem ;
+    border-width: 1px;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    
+}
+
+body {
+    margin-left: 3 rem;
+    background-color: rgb(240, 230, 177);
+}
+
+h1, h6 {
+    text-align: left;
+    color: rgb(53, 36, 10);
+}
+
+
+
